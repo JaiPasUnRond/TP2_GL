@@ -8,4 +8,6 @@ Acteur principal
 
 ## Rôle
 
+Avoir des droits (qqcvd)
+
 ## Qualités
