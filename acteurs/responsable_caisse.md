@@ -8,7 +8,7 @@ Acteur principal
 
 ## Rôle
 
-Avoir des droits (qqcvd)
-Retour
+- Avoir des droits (qqcvd)
+- Retour
 
 ## Qualités
