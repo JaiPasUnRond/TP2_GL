@@ -1,7 +1,7 @@
 
 # Client
 
-## Acteur principal
+## Acteur principal indirect
 
 ## Compétence
 
